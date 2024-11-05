@@ -1,7 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-Item_information,Item inforamtion,,
-Depositor,,true
+item_information,Item inforamtion,,
 subject,,true
 location,,true
