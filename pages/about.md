@@ -1,5 +1,5 @@
 ---
-title: About
+title: Saraiki CoRSAL Collection
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="C:\Users\meesu\OneDrive\Documents\GitHub\Alam-DH1\From-captivating-history-to-intricate-shrines-Multan-has-it-all.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
